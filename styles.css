@@ -1,11 +1,11 @@
-table.mobile {
+table.middle {
     border: 1px solid black;
     border-spacing: 5px;
     width: 100%;
 }
 
-table.mobile th, 
-table.mobile td {
+table.middle th, 
+table.middle td {
     border: 1px solid black;
     padding: 1px;
 }
